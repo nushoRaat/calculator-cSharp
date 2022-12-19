@@ -1,0 +1,15 @@
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.csproj.AssemblyReference.cache
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.AssemblyInfoInputs.cache
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.AssemblyInfo.cs
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.csproj.CoreCompileInputs.cache
+F:\vsCode calc\hishab\bin\Debug\net6.0\hishab.exe
+F:\vsCode calc\hishab\bin\Debug\net6.0\hishab.deps.json
+F:\vsCode calc\hishab\bin\Debug\net6.0\hishab.runtimeconfig.json
+F:\vsCode calc\hishab\bin\Debug\net6.0\hishab.dll
+F:\vsCode calc\hishab\bin\Debug\net6.0\hishab.pdb
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.dll
+F:\vsCode calc\hishab\obj\Debug\net6.0\refint\hishab.dll
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.pdb
+F:\vsCode calc\hishab\obj\Debug\net6.0\hishab.genruntimeconfig.cache
+F:\vsCode calc\hishab\obj\Debug\net6.0\ref\hishab.dll
